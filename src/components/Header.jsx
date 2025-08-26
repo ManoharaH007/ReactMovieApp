@@ -39,7 +39,7 @@ function Header() {
            <form  className='flex items-center'>
             <input type='text' placeholder='seach here..'
             className='bg-transparent px-4 py-1 outline-none border-none'/>
-            <button className="text-2xl cursor-pointer hover:text-yellow-500 ml-4">
+            <button className="text-2xl  cursor-pointer hover:text-yellow-400 ml-4">
                 <CiSearch />
             </button>
             </form>
